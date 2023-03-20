@@ -5,7 +5,7 @@ _дата рождения:_ 22.03.1987
 ## Город:
 
 
-# ![Город](C:\Users\dyadi\OneDrive\Рабочий стол\QA\ДЗ\GIT\GitHub Pages\city.png)
+# ![Город](https://github.com/Zhenya303/github-pages/blob/main/city.png?raw=true)
 
 
 
